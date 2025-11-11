@@ -682,3 +682,11 @@ footer {
 #logout-button:hover {
   background-color: rgba(255, 255, 255, 0.3);
 }
+
+.announcement-banner {
+  background-color: #23652c; /* Updated green for WCAG AA contrast with white text */
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-weight: bold;
+}
